@@ -1,0 +1,442 @@
+{
+  "cities": [
+    {
+      "name": "Barcelona",
+      "address": "Barcelona, Spain",
+      "country": "ES",
+      "latitude": 41.3850639,
+      "longitude": 2.1734035
+    },
+    {
+      "name": "Granollers",
+      "address": "Granollers, Barcelona, Spain",
+      "country": "ES",
+      "latitude": 41.60619270000001,
+      "longitude": 2.2870889
+    },
+    {
+      "name": "L\u0027Hospitalet de Llobregat",
+      "address": "L\u0027Hospitalet de Llobregat, Barcelona, Spain",
+      "country": "ES",
+      "latitude": 41.3661865,
+      "longitude": 2.1164942
+    },
+    {
+      "name": "Mataró",
+      "address": "Mataró, Barcelona, Spain",
+      "country": "ES",
+      "latitude": 41.5381124,
+      "longitude": 2.4447406
+    },
+    {
+      "name": "Vic",
+      "address": "08500 Vic, Barcelona, Spain",
+      "country": "ES",
+      "latitude": 41.9304373,
+      "longitude": 2.2544335
+    },
+    {
+      "name": "Palamós",
+      "address": "Palamós, Girona, Spain",
+      "country": "ES",
+      "latitude": 41.8505066,
+      "longitude": 3.1298161
+    },
+    {
+      "name": "Tremp",
+      "address": "25620 Tremp, Lleida, Spain",
+      "country": "ES",
+      "latitude": 42.1669147,
+      "longitude": 0.8949296
+    },
+    {
+      "name": "Sort",
+      "address": "Sort, Lleida, Spain",
+      "country": "ES",
+      "latitude": 42.43785039999999,
+      "longitude": 1.0873551
+    },
+    {
+      "name": "Reus",
+      "address": "Reus, Tarragona, Spain",
+      "country": "ES",
+      "latitude": 41.1498259,
+      "longitude": 1.1055321
+    },
+    {
+      "name": "Blanes",
+      "address": "17300 Blanes, Girona, Spain",
+      "country": "ES",
+      "latitude": 41.6759954,
+      "longitude": 2.7902289
+    }
+  ],
+  "connections": [
+    {
+      "from": "Barcelona",
+      "to": "Granollers",
+      "distance": 32244,
+      "duration": 2302
+    },
+    {
+      "from": "Barcelona",
+      "to": "L\u0027Hospitalet de Llobregat",
+      "distance": 8369,
+      "duration": 1478
+    },
+    {
+      "from": "Barcelona",
+      "to": "Mataró",
+      "distance": 32157,
+      "duration": 2313
+    },
+    {
+      "from": "Barcelona",
+      "to": "Vic",
+      "distance": 71048,
+      "duration": 3798
+    },
+    {
+      "from": "Barcelona",
+      "to": "Palamós",
+      "distance": 117897,
+      "duration": 5281
+    },
+    {
+      "from": "Granollers",
+      "to": "Barcelona",
+      "distance": 33991,
+      "duration": 2234
+    },
+    {
+      "from": "Granollers",
+      "to": "Granollers",
+      "distance": 0,
+      "duration": 0
+    },
+    {
+      "from": "Granollers",
+      "to": "Mataró",
+      "distance": 19539,
+      "duration": 1683
+    },
+    {
+      "from": "Granollers",
+      "to": "Vic",
+      "distance": 44401,
+      "duration": 2308
+    },
+    {
+      "from": "Granollers",
+      "to": "Palamós",
+      "distance": 90158,
+      "duration": 3971
+    },
+    {
+      "from": "L\u0027Hospitalet de Llobregat",
+      "to": "Barcelona",
+      "distance": 11004,
+      "duration": 1483
+    },
+    {
+      "from": "L\u0027Hospitalet de Llobregat",
+      "to": "Granollers",
+      "distance": 37873,
+      "duration": 2416
+    },
+    {
+      "from": "L\u0027Hospitalet de Llobregat",
+      "to": "Mataró",
+      "distance": 41273,
+      "duration": 2614
+    },
+    {
+      "from": "L\u0027Hospitalet de Llobregat",
+      "to": "Vic",
+      "distance": 76677,
+      "duration": 3912
+    },
+    {
+      "from": "L\u0027Hospitalet de Llobregat",
+      "to": "Palamós",
+      "distance": 123527,
+      "duration": 5394
+    },
+    {
+      "from": "L\u0027Hospitalet de Llobregat",
+      "to": "Blanes",
+      "distance": 80415,
+      "duration": 3942
+    },
+    {
+      "from": "Barcelona",
+      "to": "Blanes",
+      "distance": 71298,
+      "duration": 3641
+    },
+    {
+      "from": "Granollers",
+      "to": "Blanes",
+      "distance": 56232,
+      "duration": 2859
+    },
+    {
+      "from": "Mataró",
+      "to": "Barcelona",
+      "distance": 34059,
+      "duration": 2192
+    },
+    {
+      "from": "Mataró",
+      "to": "Granollers",
+      "distance": 23875,
+      "duration": 1557
+    },
+    {
+      "from": "Mataró",
+      "to": "L\u0027Hospitalet de Llobregat",
+      "distance": 40625,
+      "duration": 2467
+    },
+    {
+      "from": "Mataró",
+      "to": "Vic",
+      "distance": 65213,
+      "duration": 3282
+    },
+    {
+      "from": "Mataró",
+      "to": "Palamós",
+      "distance": 87639,
+      "duration": 4029
+    },
+    {
+      "from": "Vic",
+      "to": "Barcelona",
+      "distance": 72554,
+      "duration": 3833
+    },
+    {
+      "from": "Vic",
+      "to": "Granollers",
+      "distance": 44843,
+      "duration": 2448
+    },
+    {
+      "from": "Vic",
+      "to": "L\u0027Hospitalet de Llobregat",
+      "distance": 75447,
+      "duration": 3927
+    },
+    {
+      "from": "Vic",
+      "to": "Mataró",
+      "distance": 60253,
+      "duration": 3507
+    },
+    {
+      "from": "Vic",
+      "to": "Palamós",
+      "distance": 104205,
+      "duration": 4461
+    },
+    {
+      "from": "Vic",
+      "to": "Tremp",
+      "distance": 171704,
+      "duration": 7850
+    },
+    {
+      "from": "Vic",
+      "to": "Sort",
+      "distance": 185800,
+      "duration": 10581
+    },
+    {
+      "from": "Vic",
+      "to": "Reus",
+      "distance": 169261,
+      "duration": 6791
+    },
+    {
+      "from": "Vic",
+      "to": "Blanes",
+      "distance": 80387,
+      "duration": 3850
+    },
+    {
+      "from": "Palamós",
+      "to": "Barcelona",
+      "distance": 120125,
+      "duration": 5267
+    },
+    {
+      "from": "Palamós",
+      "to": "Granollers",
+      "distance": 89555,
+      "duration": 3921
+    },
+    {
+      "from": "Palamós",
+      "to": "Mataró",
+      "distance": 87625,
+      "duration": 4127
+    },
+    {
+      "from": "Palamós",
+      "to": "Vic",
+      "distance": 103636,
+      "duration": 4447
+    },
+    {
+      "from": "Palamós",
+      "to": "Blanes",
+      "distance": 58079,
+      "duration": 2863
+    },
+    {
+      "from": "Tremp",
+      "to": "Barcelona",
+      "distance": 187452,
+      "duration": 8612
+    },
+    {
+      "from": "Tremp",
+      "to": "Granollers",
+      "distance": 192299,
+      "duration": 8822
+    },
+    {
+      "from": "Tremp",
+      "to": "Vic",
+      "distance": 171401,
+      "duration": 7853
+    },
+    {
+      "from": "Tremp",
+      "to": "Tremp",
+      "distance": 0,
+      "duration": 0
+    },
+    {
+      "from": "Tremp",
+      "to": "Sort",
+      "distance": 52678,
+      "duration": 3540
+    },
+    {
+      "from": "Tremp",
+      "to": "Reus",
+      "distance": 150173,
+      "duration": 7718
+    },
+    {
+      "from": "Sort",
+      "to": "Barcelona",
+      "distance": 239923,
+      "duration": 12039
+    },
+    {
+      "from": "Sort",
+      "to": "Granollers",
+      "distance": 241999,
+      "duration": 12227
+    },
+    {
+      "from": "Sort",
+      "to": "Vic",
+      "distance": 185155,
+      "duration": 10511
+    },
+    {
+      "from": "Sort",
+      "to": "Tremp",
+      "distance": 52618,
+      "duration": 3484
+    },
+    {
+      "from": "Sort",
+      "to": "Reus",
+      "distance": 202644,
+      "duration": 11145
+    },
+    {
+      "from": "Sort",
+      "to": "Blanes",
+      "distance": 267765,
+      "duration": 13731
+    },
+    {
+      "from": "Reus",
+      "to": "Barcelona",
+      "distance": 109430,
+      "duration": 4799
+    },
+    {
+      "from": "Reus",
+      "to": "Granollers",
+      "distance": 132315,
+      "duration": 5329
+    },
+    {
+      "from": "Reus",
+      "to": "Vic",
+      "distance": 171119,
+      "duration": 6825
+    },
+    {
+      "from": "Reus",
+      "to": "Tremp",
+      "distance": 154812,
+      "duration": 7872
+    },
+    {
+      "from": "Reus",
+      "to": "Sort",
+      "distance": 207303,
+      "duration": 11322
+    },
+    {
+      "from": "Reus",
+      "to": "Blanes",
+      "distance": 179617,
+      "duration": 7436
+    },
+    {
+      "from": "Blanes",
+      "to": "Barcelona",
+      "distance": 72777,
+      "duration": 3630
+    },
+    {
+      "from": "Blanes",
+      "to": "Granollers",
+      "distance": 54495,
+      "duration": 2738
+    },
+    {
+      "from": "Blanes",
+      "to": "L\u0027Hospitalet de Llobregat",
+      "distance": 79343,
+      "duration": 3904
+    },
+    {
+      "from": "Blanes",
+      "to": "Mataró",
+      "distance": 39354,
+      "duration": 2264
+    },
+    {
+      "from": "Blanes",
+      "to": "Vic",
+      "distance": 79606,
+      "duration": 3812
+    },
+    {
+      "from": "Blanes",
+      "to": "Palamós",
+      "distance": 56963,
+      "duration": 2798
+    }
+  ]
+}
