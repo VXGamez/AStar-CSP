@@ -1,0 +1,2 @@
+Al haver estat implementat amb el llenguatge de programació de python només cal obrir aquesta carpeta en qualsevol IDE (en el nostre cas hem utilitzat pycharm) o plataforma
+que permeti compilar aquest llenguatge (important obrir aquesta carpeta sencera i no només l'script per no tenir problemes amb els diferents fitxers).  
